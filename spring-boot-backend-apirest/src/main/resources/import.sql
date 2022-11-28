@@ -1,0 +1,10 @@
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel", "Gonzales", "mangon@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel2", "Gonzales", "mangon2@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel3", "Gonzales", "mangon3@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel4", "Gonzales", "mangon4@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel5", "Gonzales", "mangon5@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel6", "Gonzales", "mangon6@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel7", "Gonzales", "mangon7@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel8", "Gonzales", "mangon8@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel9", "Gonzales", "mangon9@manu.es", "2002-02-10");
+INSERT into clientes ( nombre, apellido, email, create_at) values ( "manuel0", "Gonzales", "mangon0@manu.es", "2002-02-10");
